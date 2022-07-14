@@ -1,5 +1,5 @@
 {
-    "Name": "A synchronous multimodal neuroimaging dataset to study brain language processing",
+    "Name": "A synchronized multimodal neuroimaging dataset to study brain language processing",
     "BIDSVersion": "1.6.0",
     "Authors": [
         "Shaonan Wang",
