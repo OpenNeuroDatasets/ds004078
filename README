@@ -1,6 +1,6 @@
 #### Overview
 
-This synchronous multimodal neuroimaging dataset for studying brain language processing (SMN4Lang) contains:
+This synchronized multimodal neuroimaging dataset for studying brain language processing (SMN4Lang) contains:
 
 1. fMRI and MEG data collected on the same 12 participant while they were listening to 6 hours of naturalistic stories;
 
@@ -15,7 +15,7 @@ All 12 participants were recruited from universities in Beijing, of which 4 were
 
 #### Experimental Procedures
 
-Before each scanning, participants first completed a simple information survey form and an informed consent. During both fMRI and MEG scanning, participants were instructed to listen and pay attention to the story stimulus, remain still, answer questions on the screen after each audio was finished. Stimulus presentation was implemented using Psychtoolbox-3. Specifically, at the beginning of each run, there was instruction of "等待扫描开始 (Waiting for the scanning)" on the screen followed with 8 seconds blank. Then, the instruction became "本段即将开始 请仔细收听 (This audio is about to start, please listen carefully)" which lasted for 2.65 seconds before playing the audio; during audio play, a centrally located fixation cross was presented; finally, two questions about the story were presented each with four answers to choose from during which time was controlled by participants. Auditory story stimuli were delivered via S14 insert earphones for fMRI studies (with headphones or foam padding were placed over the earphones to reduce scanner noise) and Elekta matching insert earphones for MEG studies. 
+Before each scanning, participants first completed a simple information survey form and an informed consent. During both fMRI and MEG scanning, participants were instructed to listen and pay attention to the story stimulus, remain still, answer questions on the screen after each audio was finished. Stimulus presentation was implemented using Psychtoolbox-3. Specifically, at the beginning of each run, there was instruction of "Waiting for the scanning" on the screen followed with 8 seconds blank. Then, the instruction became "This audio is about to start, please listen carefully" which lasted for 2.65 seconds before playing the audio; during audio play, a centrally located fixation cross was presented; finally, two questions about the story were presented each with four answers to choose from during which time was controlled by participants. Auditory story stimuli were delivered via S14 insert earphones for fMRI studies (with headphones or foam padding were placed over the earphones to reduce scanner noise) and Elekta matching insert earphones for MEG studies. 
 
 The fMRI recording was split into 7 visits with each lasting 1.5 hours in which the T1, T2, resting MRI were collected on the first visit, fMRI with listening tasks was collected from 1 to 6 visits, and the diffusion MRI were collected on the last visit. During MRI scanning including T1, T2, diffusion and resting, subjects were instructed to lie relaxed and still in the machine. The MEG recording was split into 6 visits with each lasting 1.5 hours.
 
