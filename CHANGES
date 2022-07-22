@@ -1,3 +1,5 @@
+1.0.3 2022-07-22
+  - modified task name in MEG json file
 1.0.2 2022-07-22
   - upload new MEG raw and preprocessed data
   - upload new MEG preprocess code
