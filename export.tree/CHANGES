@@ -1,0 +1,8 @@
+1.0.2 2022-07-22
+  - upload new MEG raw and preprocessed data
+  - upload new MEG preprocess code
+1.0.1 2022-06-30
+  - moved the annotations from stimuli folder to derivatives folder
+  - added events.tsv
+1.0.0 2022-04-11
+  - 1.0.0
