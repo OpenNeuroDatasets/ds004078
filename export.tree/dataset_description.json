@@ -1,0 +1,12 @@
+{
+    "Name": "A synchronized multimodal neuroimaging dataset to study brain language processing",
+    "BIDSVersion": "1.6.0",
+    "Authors": [
+        "Shaonan Wang",
+        "Xiaohan Zhang",
+        "Jiajun Zhang",
+        "Chengqing Zong"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004078.v1.0.3",
+    "License": "CC0"
+}
