@@ -1,3 +1,6 @@
+1.0.4 2022-10-19
+  - updated GPT word embeddings in derivatives/annotations/embeddings/gpt/word-level folder
+  - updated time-align files
 1.0.3 2022-07-22
   - modified task name in MEG json file
 1.0.2 2022-07-22
