@@ -1,3 +1,5 @@
+1.1.0 2023-06-02
+  - updated meg_quiz.txt
 1.0.4 2022-10-19
   - updated GPT word embeddings in derivatives/annotations/embeddings/gpt/word-level folder
   - updated time-align files
